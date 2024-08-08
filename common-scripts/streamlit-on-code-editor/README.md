@@ -67,8 +67,9 @@
 
 <img width="552" alt="Screenshot 2024-08-07 at 09 12 14" src="https://github.com/user-attachments/assets/7315b1fa-266a-4f6a-8cce-69b661964c37">
 
-![Enter image description here]()
+<img width="678" alt="Screenshot 2024-08-07 at 09 21 12" src="https://github.com/user-attachments/assets/e48bb7e7-d26a-44a9-965d-e7c5d41b5391">
 
-Additionally to persist the configuration you can use a [LifeCycle Configuration](https://docs.aws.amazon.com/sagemaker/latest/dg/code-editor-use-lifecycle-configurations.html) to auto install these packages on Codeedtior start with out manually installing them on restart.
 
-Please feel free test the process and share any feedback/recommendations.
+Additionally to persist the configuration you can use a [LifeCycle Configuration](https://docs.aws.amazon.com/sagemaker/latest/dg/code-editor-use-lifecycle-configurations.html) to auto install these packages on Code-editior start with out manually installing them on every restart.
+
+Please share any feedback/recommendations.
