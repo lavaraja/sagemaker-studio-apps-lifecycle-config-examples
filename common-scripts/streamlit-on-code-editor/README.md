@@ -11,7 +11,7 @@
 
 ### **Step 2:** Install headless chromium browser. 
 1.  Open a new terminal from the menu bar. 
-2. Run the following commands to install headless chromium browser. or alternatively you can run setup `chromium.sh` script.
+2. Run the following commands to install headless chromium browser. or alternatively you can run setup `install_chromium.sh` script.
 * `mkdir app & cd app`
 *  `sudo apt-get update`
 * `sudo apt-get install wget`
