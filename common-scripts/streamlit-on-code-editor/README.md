@@ -26,12 +26,12 @@
 ### **Step 3:** Configure the extension to use chrome browser.
 1. Open the extension `Browse Lite` and choose settings.
 
-![Enter image description here]()
+<img width="784" alt="Screenshot 2024-08-07 at 08 40 02" src="https://github.com/user-attachments/assets/0a2553ef-464d-4be9-90c8-dfd73c11c0cb">
+
 
 2. The extension settings page will be opened.
 
-
-![Enter image description here]()
+<img width="1155" alt="Screenshot 2024-08-07 at 08 41 38" src="https://github.com/user-attachments/assets/4f167102-1d1d-4556-a972-65f983015ca8">
 
  3.  Under **Chrome Executable** section add path to chrome executable i.e `/usr/bin/google-chrome`
 
@@ -48,7 +48,7 @@
 
   Local URL: http://localhost:8501
   Network URL: http://169.255.255.2:8501
-  External URL: http://52.86.42.85:8501
+  External URL: http://x.x.x.x:8501
 
   Ready to create your own Python apps super quickly?
   Head over to https://docs.streamlit.io
@@ -61,11 +61,11 @@
 1. Open the web browser by opening the extension from command palette.  Run `Browse Lite: Open`... command to start the browser
 2. Enter the app URL displayed on terminal to access the Streamlit app.
 
-![Enter image description here]()
+<img width="719" alt="Screenshot 2024-08-07 at 09 11 38" src="https://github.com/user-attachments/assets/9df5172a-d8af-4007-8c3a-03791d302df9">
 
-![Enter image description here]()
+<img width="674" alt="Screenshot 2024-08-07 at 09 11 54" src="https://github.com/user-attachments/assets/f8c06e9d-37ac-4761-ad40-7aa952b7b3ac">
 
-![Enter image description here]()
+<img width="552" alt="Screenshot 2024-08-07 at 09 12 14" src="https://github.com/user-attachments/assets/7315b1fa-266a-4f6a-8cce-69b661964c37">
 
 ![Enter image description here]()
 
